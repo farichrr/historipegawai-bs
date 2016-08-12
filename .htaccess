@@ -1,0 +1,9 @@
+RewriteEngine On
+RewriteRule ^(assets|user|uploads)($|/) - [L]
+RewriteRule ^action/([^/]*)$ action.php?act=$1 [L]
+RewriteRule ^login/([^/]*)$ login.php? [L]
+RewriteRule ^logout/([^/]*)$ logout.php? [L]
+RewriteRule ^export/([^/]*)$ export.php?type=$1 [L]
+RewriteRule ^([^/]*)/$ page.php?page=$1  [L]
+RewriteRule ^([^/]*)/([^/]*)$ page.php?page=$1&id=$2 [L]
+RewriteRule ^([^/]*)/([^/]*)/([^/]*)$ page.php?page=$1&action=$2&id=$3 [L]

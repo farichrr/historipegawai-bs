@@ -1,0 +1,161 @@
+`id`,
+ `nip`,
+ `nama`,
+ `tipe_pegawai`,
+ `nidn`,
+ `unit`,
+ `status_aktif`,
+ `tanggal_masuk`,
+ `tanggal_keluar`,
+ `keterangan_alasan`,
+ `status_pegawai`,
+ `pangkat_internal`,
+ `golongan_internal`,
+ `ruang_internal`,
+ `pangkat_inpassing`,
+ `golongan_inpassing`,
+ `ruang_inpassing`,
+ `fingerprint_id`,
+ `jabatan`,
+ `jabatan_akademik`,
+ `status_mengajar`,
+ `rekening_bank`,
+ `foto`,
+ `file`,
+ `type`,
+ `size`,
+ `jenis_kelamin`,
+ `agama`,
+ `tempat`,
+ `tanggal_lahir`,
+ `email1`,
+ `email2`,
+ `telepon1`,
+ `telepon2`,
+ `alamat_malang`,
+ `kodepos_malang`,
+ `alamat_asal`,
+ `kodepos_asal`,
+ `negara`,
+ `propinsi`,
+ `kota`,
+ `status_pernikahan`,
+ `pendidikan_terakhir`,
+ `golongan_darah`,
+ `no_tanda_pengenal`,
+ `tanda_pengenal`,
+ `no_bpjs_ketenagakerjaan`,
+ `no_bpjs_kesehatan`,
+ `no_bpjs_pensiun`,
+ `no_askes_tambahan`,
+ `npwp`,
+ `perubahan_nip`,
+ `pindah_unit`,
+ `pindah_program_studi`,
+ `perubahan_status_aktif`,
+ `perubahan_status_pegawai`,
+ `perubahan_golongan`,
+ `perubahan_jabatan`,
+ `perubahan_jabatan_akademik`,
+ `perubahan_tipe_pegawai`,
+ `perubahan_finger_id`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 'PGW0002',
+ '123123',
+ 'asdasd',
+ 'TP0001',
+ '123333',
+ 'FAK01',
+ 'aktif',
+ '2016-07-29',
+ '2016-07-29',
+ 'asd',
+ 'Aktif',
+ '1',
+ '1',
+ '1',
+ '1',
+ '1',
+ '1',
+ '44123asd1',
+ 'J001',
+ 'JA001',
+ 'Aktif',
+ '12333',
+ '794182.jpg',
+ '3918-Modul02.pdf',
+ 'application/pdf',
+ '0',
+ 'Laki - laki',
+ 'Islam',
+ 'Malang',
+ '2016-07-29',
+ 'asd@mail.com',
+ 'dsa@mail.com',
+ '081923912939',
+ '0312392929',
+ 'VPT',
+ '65122',
+ '-',
+ '-',
+ '-',
+ '-',
+ '-',
+ 'Kawin',
+ 'SD',
+ 'A',
+ '123@asd.com',
+ 'KTP',
+ '123',
+ '123',
+ '123',
+ '123',
+ '123',
+ '123',
+ '123',
+ '123',
+ '123',
+ 'y',
+ '123',
+ '123',
+ '123',
+ '123'
+ '11'
